@@ -22,8 +22,8 @@ doy_labels <- c("11/25", "12/20", "1/14", "2/8", "3/5", "3/30", "4/24",
                 "5/19", "6/13", "7/8", "8/2", "8/27", "9/21", "10/16")
 
 # ── Axis theme ─────────────────────────────────────────────────
-axis_theme <- theme(axis.text  = element_text(size = 13),
-                    axis.title = element_text(size = 15))
+axis_theme <- theme(axis.text  = element_text(size = 20),
+                    axis.title = element_text(size = 24))
 
 # ============================================================
 # MODELS
@@ -110,9 +110,9 @@ panel_A <- Captive %>%
        fill = NULL) +
   theme_classic() +
   axis_theme +
-  theme(axis.text.x  = element_text(angle = 45, hjust = 1),
-        axis.text.y  = element_text(size = 11),
-        legend.text  = element_text(size = 11),
+  theme(axis.text.x  = element_text(angle = 45, hjust = 1, size = 20),
+        axis.text.y  = element_text(size = 20),
+        legend.text  = element_text(size = 18),
         legend.title = element_blank())
 
 # ============================================================
@@ -129,15 +129,16 @@ panel_B <- ggplot(captive_clean, aes(x = DOY, y = Lat, fill = Group)) +
   coord_cartesian(xlim = c(0, 350), ylim = c(0, 85)) +
   annotate("text", x = 5, y = 85,
            label = paste0("R² = ", r2_captive, " (captive, logistic)"),
-           color = "slateblue3", hjust = 0, size = 4) +
+           color = "slateblue3", hjust = 0, size = 6) +
   annotate("text", x = 5, y = 79,
            label = paste0("R² = ", r2_wild, " (wild, asymptotic)"),
-           color = "sienna3", hjust = 0, size = 4) +
+           color = "sienna3", hjust = 0, size = 6) +
   labs(x = "Estimated timing of birth", y = "Latitude") +
   theme_classic() +
   axis_theme +
-  theme(axis.text.x  = element_text(angle = 45, hjust = 1, size = 11),
-        legend.text  = element_text(size = 11),
+  theme(axis.text.x  = element_text(angle = 45, hjust = 1, size = 20),
+        axis.text.y  = element_text(size = 20),
+        legend.text  = element_text(size = 18),
         legend.title = element_blank())
 
 # ============================================================
@@ -153,23 +154,21 @@ panel_C <- ggplot(dat, aes(x = LatGrouping_by10, y = DOY,
   labs(x = "Latitudinal range", y = "Estimated timing of birth") +
   theme_classic() +
   axis_theme +
-  theme(axis.text.x  = element_text(angle = 45, hjust = 1),
-        axis.text.y  = element_text(size = 11),
-        legend.text  = element_text(size = 11),
+  theme(axis.text.x  = element_text(angle = 45, hjust = 1, size = 20),
+        axis.text.y  = element_text(size = 20),
+        legend.text  = element_text(size = 18),
         legend.title = element_blank())
 
 # ============================================================
 # COMBINE
 # ============================================================
 combined <- panel_A / panel_B / panel_C +
-  plot_layout(heights = c(1, 1, 1))
+  plot_layout(heights = c(0.7, 0.7, 0.7))
 
 print(combined)
 
 ggsave("May17_2026_Figure3_panel.pdf",
-       plot = combined, width = 10, height = 16, dpi = 300)
-
-
+       plot = combined, width = 14, height = 16, dpi = 300)
 
 
 # Figure 3a - Captive wolf boxplot 
