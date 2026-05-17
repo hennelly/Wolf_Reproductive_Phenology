@@ -1,100 +1,86 @@
-#install.packages("ggpmisc")
+library(ggplot2)
 library(ggpmisc)
+library(patchwork)
+library(dplyr)
 
-dat <- read.csv ("Wild_wolf_parturition_May15_final_2026.csv", header=TRUE)
+# ── Load and recode ────────────────────────────────────────────
+dat <- read.csv("Wild_wolf_parturition_May15_final_2026.csv", header = TRUE)
 
-## All wolves 
-#PC1
-plot <- ggplot(dat, aes(x=DOY, y=PC1)) + 
-          geom_point(size=3, fill="darkgoldenrod1", colour="black", pch=21) + 
-          geom_smooth(method=lm) + 
-          theme_classic() +
-          theme(
-            axis.text.x = element_text(size=14),
-            axis.text.y = element_text(size=14),
-            axis.title.x = element_text(size=16),
-            axis.title.y = element_text(size=16)
-          )
-plot2 <- plot + stat_poly_line() + stat_poly_eq()
-plot2 + scale_x_continuous(breaks = round(seq(min(0), max(365), by = 25), 0))
-ggsave("2026_May15_all_FigureSx_PC1_May15_2026.pdf", width=5,height=4)
+dat$Region <- recode(dat$Region,
+                     "Middle East"  = "Southwest Asia",
+                     "NorthAmerica" = "North America")
 
-#Latitude
-plot <- ggplot(dat, aes(x=DOY, y=Lat)) + 
-          geom_point(size=3, fill="darkgoldenrod1", colour="black", pch=21) + 
-          geom_smooth(method=lm) + 
-          theme_classic() +
-          theme(
-            axis.text.x = element_text(size=14),
-            axis.text.y = element_text(size=14),
-            axis.title.x = element_text(size=16),
-            axis.title.y = element_text(size=16)
-          )
-plot2 <- plot + stat_poly_line() + stat_poly_eq()
-plot2 + scale_x_continuous(breaks = round(seq(min(0), max(365), by = 25), 0))
-ggsave("2026_May15_all_Lat.pdf", width=5,height=4)
+# ── Color scale ────────────────────────────────────────────────
+region_colors <- c("Asia"           = "purple",
+                   "Europe"         = "olivedrab3",
+                   "Indian"         = "orangered",
+                   "Southwest Asia" = "darkgoldenrod1",
+                   "North America"  = "#56B4E9",
+                   "Tibetan"        = "gray")
 
+# ── Individual plots ───────────────────────────────────────────
+p1_all <- ggplot(dat, aes(x = DOY, y = Lat)) +
+  geom_point(aes(fill = Region), size = 3, pch = 21) +
+  stat_poly_line(formula = y ~ x, aes(group = 1), color = "black") +
+  stat_poly_eq(formula = y ~ x, aes(group = 1)) +
+  scale_x_continuous(breaks = seq(0, 365, by = 25)) +
+  scale_fill_manual(values = region_colors) +
+  labs(x = "DOY", y = "Lat") +
+  theme_classic()
 
-#Mating date
-plot <- ggplot(dat, aes(x=DOY, y=daylength_original_matingdate)) + 
-          geom_point(size=3, fill="darkgoldenrod1", colour="black", pch=21) + 
-          geom_smooth(method=lm) + 
-          theme_classic() +
-          theme(
-            axis.text.x = element_text(size=14),
-            axis.text.y = element_text(size=14),
-            axis.title.x = element_text(size=16),
-            axis.title.y = element_text(size=16)
-          )
-plot2 <- plot + stat_poly_line() + stat_poly_eq()
-plot2 + scale_x_continuous(breaks = round(seq(min(0), max(365), by = 25), 0))
-ggsave("2026_May15_all_daylength_original_matingdate.pdf", width=5,height=4)
+p2_all <- ggplot(dat, aes(x = DOY, y = PC1)) +
+  geom_point(aes(fill = Region), size = 3, pch = 21) +
+  stat_poly_line(formula = y ~ x, aes(group = 1), color = "black") +
+  stat_poly_eq(formula = y ~ x, aes(group = 1)) +
+  scale_x_continuous(breaks = seq(0, 365, by = 25)) +
+  scale_fill_manual(values = region_colors) +
+  labs(x = "DOY", y = "PC1") +
+  theme_classic()
 
+p3_all <- ggplot(dat, aes(x = DOY, y = daylength_original_matingdate)) +
+  geom_point(aes(fill = Region), size = 3, pch = 21) +
+  stat_poly_line(formula = y ~ x, aes(group = 1), color = "black") +
+  stat_poly_eq(formula = y ~ x, aes(group = 1)) +
+  scale_x_continuous(breaks = seq(0, 365, by = 25)) +
+  scale_fill_manual(values = region_colors) +
+  labs(x = "DOY", y = "Daylength (mating date)") +
+  theme_classic()
 
-#Precipitation seasonality 
-plot <- ggplot(dat, aes(x=DOY, y=Precipitation_Seasonality)) + 
-          geom_point(size=3, fill="darkgoldenrod1", colour="black", pch=21) + 
-          geom_smooth(method=lm) + 
-          theme_classic() +
-          theme(
-            axis.text.x = element_text(size=14),
-            axis.text.y = element_text(size=14),
-            axis.title.x = element_text(size=16),
-            axis.title.y = element_text(size=16)
-          )
-plot2 <- plot + stat_poly_line() + stat_poly_eq()
-plot2 + scale_x_continuous(breaks = round(seq(min(0), max(365), by = 25), 0))
-ggsave("2026_May15_all_Precipitation_Seasonality.pdf", width=5,height=4)
+p4_all <- ggplot(dat, aes(x = DOY, y = Precipitation_Seasonality)) +
+  geom_point(aes(fill = Region), size = 3, pch = 21) +
+  stat_poly_line(formula = y ~ x, aes(group = 1), color = "black") +
+  stat_poly_eq(formula = y ~ x, aes(group = 1)) +
+  scale_x_continuous(breaks = seq(0, 365, by = 25)) +
+  scale_fill_manual(values = region_colors) +
+  labs(x = "DOY", y = "Precipitation Seasonality") +
+  theme_classic()
 
+p5_all <- ggplot(dat, aes(x = DOY, y = mean_ndvi)) +
+  geom_point(aes(fill = Region), size = 3, pch = 21) +
+  stat_poly_line(formula = y ~ x, aes(group = 1), color = "black") +
+  stat_poly_eq(formula = y ~ x, aes(group = 1)) +
+  scale_x_continuous(breaks = seq(0, 365, by = 25)) +
+  scale_fill_manual(values = region_colors) +
+  labs(x = "DOY", y = "Mean NDVI") +
+  theme_classic()
 
-#Annual_Precipitation 
-plot <- ggplot(dat, aes(x=DOY, y=Annual_Precipitation)) + 
-          geom_point(size=3, fill="darkgoldenrod1", colour="black", pch=21) + 
-          geom_smooth(method=lm) + 
-          theme_classic() +
-          theme(
-            axis.text.x = element_text(size=14),
-            axis.text.y = element_text(size=14),
-            axis.title.x = element_text(size=16),
-            axis.title.y = element_text(size=16)
-          )
-plot2 <- plot + stat_poly_line() + stat_poly_eq()
-plot2 + scale_x_continuous(breaks = round(seq(min(0), max(365), by = 25), 0))
+p6_all <- ggplot(dat, aes(x = DOY, y = Annual_Precipitation)) +
+  geom_point(aes(fill = Region), size = 3, pch = 21) +
+  stat_poly_line(formula = y ~ x, aes(group = 1), color = "black") +
+  stat_poly_eq(formula = y ~ x, aes(group = 1)) +
+  scale_x_continuous(breaks = seq(0, 365, by = 25)) +
+  scale_fill_manual(values = region_colors) +
+  labs(x = "DOY", y = "Annual Precipitation") +
+  theme_classic()
 
-ggsave("2026_May15_all_annual_precipitation.pdf", width=5,height=4)
+# ── Combine ────────────────────────────────────────────────────
+combined_all <- (p1_all | p2_all) / (p3_all | p4_all) / (p5_all | p6_all) +
+  plot_layout(guides = "collect") &
+  theme(legend.position = "bottom",
+        legend.title = element_blank(),
+        legend.text = element_text(size = 14))
 
-#mean_ndvi 
-plot <- ggplot(dat, aes(x=DOY, y=mean_ndvi)) + 
-          geom_point(size=3, fill="darkgoldenrod1", colour="black", pch=21) + 
-          geom_smooth(method=lm) + 
-          theme_classic() +
-          theme(
-            axis.text.x = element_text(size=14),
-            axis.text.y = element_text(size=14),
-            axis.title.x = element_text(size=16),
-            axis.title.y = element_text(size=16)
-          )
-plot2 <- plot + stat_poly_line() + stat_poly_eq()
-plot2 + scale_x_continuous(breaks = round(seq(min(0), max(365), by = 25), 0))
-ggsave("2026_May15_all_mean_ndvi.pdf", width=5,height=4)
+print(combined_all)
 
+ggsave("May17_2026_AllWolves_panel.pdf",
+       plot = combined_all, width = 10, height = 12, dpi = 300)
