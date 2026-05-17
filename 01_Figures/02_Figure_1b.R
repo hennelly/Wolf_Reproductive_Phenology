@@ -1,6 +1,6 @@
 ## Code for Figure 2
 
-dat <- read.csv ("2026_May15_Published_unpublished_DOY_vs_latitude_Dec42025_FINAL2.csv", header=TRUE)
+dat <- read.csv ("2026_May15_Published_unpublished_DOY_vs_latitude_FINALIZED.csv", header=TRUE)
 
 # Full Lat sequence across your data range
 lat_seq  <- seq(min(dat$Lat), max(dat$Lat), length.out = 300)
