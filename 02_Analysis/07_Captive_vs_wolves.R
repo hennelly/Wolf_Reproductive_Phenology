@@ -11,16 +11,16 @@ mean(Wild$adjusted_DOBirthYOD)
 sd(Wild$adjusted_DOBirthYOD)
 #35.07582 with YELLOWSTONE
 ## Welch's t-test
-dat <- read.csv("May14_2026_WildvsCaptive_Ttest_Yellowstone.csv", header=TRUE)
+dat <- read.csv("May15_2026_WildvsCaptive_Ttest_final.csv", header=TRUE)
 t.test(dat$Captive_adjusted_DOBirthYOD, dat$Wild_adjustedDOY, var.equal = FALSE) 
 
-	Welch Two Sample t-test
+#	Welch Two Sample t-test
 
-data:  dat$Captive_adjusted_DOBirthYOD and dat$Wild_adjustedDOY
-t = 6.1689, df = 1270.1, p-value = 9.225e-10
-alternative hypothesis: true difference in means is not equal to 0
-95 percent confidence interval:
-  8.939315 17.276359
-sample estimates:
-mean of x mean of y 
- 183.4383  170.3305 
+#data:  dat$Captive_adjusted_DOBirthYOD and dat$Wild_adjustedDOY
+#t = 6.3931, df = 1278.7, p-value = 2.273e-10
+#alternative hypothesis: true difference in means is not equal to 0
+#95 percent confidence interval:
+#  9.397723 17.718775
+#sample estimates:
+#mean of x mean of y 
+ #183.4383  169.8801 
