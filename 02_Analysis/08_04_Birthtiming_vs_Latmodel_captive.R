@@ -1,4 +1,4 @@
-Captive <- read.csv("2026_May15_plotting_captivevswild_lat.csv", header=TRUE)
+Captive <- read.csv("2026_May15_final_plotting_captivevswild_lat.csv", header=TRUE)
 
 # Final - Figure 3c captive vs wild wolf box plot 
 dat <- subset(Captive, Group=="captive")
