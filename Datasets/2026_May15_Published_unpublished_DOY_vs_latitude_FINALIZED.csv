@@ -1,0 +1,591 @@
+﻿,Population,Region,Region2,Region3,DenID,unpublished.vs.published,unpublished.vs.published2,Estimation_Method,Study,Date_median,Date_lowerrange,Date_upperrange,Lat,Long,Lat_lowerrange,Lat_upperrange,DOY,DOY_lowerrange,DOY_upperrange,Originaldataset
+1,Indian,Indian,Indian,Indian,Mihir-1,unpublished,21,Cameratrap,,2/2/13,,,18.395,73.983,,,93,,,yes
+2,Indian,Indian,Indian,Indian,Mihir-1,unpublished,21,Cameratrap,,2/5/14,,,18.395,73.983,,,95,,,yes
+3,Indian,Indian,Indian,Indian,Mihir-2,unpublished,21,Cameratrap,,1/2/16,,,18.418,74.142,,,61,,,yes
+4,Indian,Indian,Indian,Indian,Mihir-2,unpublished,21,Cameratrap,,1/18/17,,,18.418,74.142,,,78,,,yes
+5,Indian,Indian,Indian,Indian,Mihir-3,unpublished,21,Cameratrap,,1/15/16,,,18.211,74.232,,,74,,,yes
+6,Indian,Indian,Indian,Indian,Mihir-3,unpublished,21,Cameratrap,,12/19/17,,,18.211,74.232,,,50,,,yes
+7,Indian,Indian,Indian,Indian,Mihir-3,unpublished,21,Cameratrap,,12/16/18,,,18.211,74.232,,,47,,,yes
+8,Indian,Indian,Indian,Indian,Mihir-3,unpublished,21,Cameratrap,,12/28/19,,,18.211,74.232,,,59,,,yes
+9,Indian,Indian,Indian,Indian,Mihir-3,unpublished,21,Cameratrap,,12/20/20,,,18.211,74.232,,,51,,,yes
+10,Indian,Indian,Indian,Indian,Mihir-3,unpublished,21,Cameratrap,,1/5/22,,,18.211,74.232,,,64,,,yes
+11,Indian,Indian,Indian,Indian,Mihir-4,unpublished,21,Cameratrap,,1/25/17,,,18.188,74.135,,,85,,,yes
+12,Indian,Indian,Indian,Indian,Mihir-5,unpublished,21,Cameratrap,,2/14/20,,,18.361,74.098,,,104,,,yes
+13,Indian,Indian,Indian,Indian,Mihir-5,unpublished,21,Cameratrap,,1/1/21,,,18.361,74.098,,,61,,,yes
+14,Indian,Indian,Indian,Indian,Mihir-6,unpublished,21,Cameratrap,,2/14/20,,,18.153,74.823,,,104,,,yes
+15,Indian,Indian,Indian,Indian,Mihir-6,unpublished,21,Cameratrap,,2/4/21,,,18.153,74.823,,,95,,,yes
+16,Indian,Indian,Indian,Indian,Mihir-7,unpublished,21,Cameratrap,,4/1/16,,,18.747,74.034,,,152,,,yes
+17,Indian,Indian,Indian,Indian,Mihir-8,unpublished,21,Cameratrap,,12/16/18,,,18.384,74.303,,,47,,,yes
+19,Indian,Indian,Indian,Indian,Mihir-8,unpublished,21,Cameratrap,,1/7/21,,,18.384,74.303,,,67,,,yes
+20,Indian,Indian,Indian,Indian,Mihir-9,unpublished,21,Cameratrap,,2/15/20,,,18.266,74.327,,,105,,,yes
+21,Indian,Indian,Indian,Indian,Mihir-9,unpublished,21,Cameratrap,,1/3/21,,,18.266,74.327,,,63,,,yes
+22,Indian,Indian,Indian,Indian,Mihir-10,unpublished,21,Cameratrap,,12/20/20,,,18.428,74.237,,,51,,,yes
+23,Indian,Indian,Indian,Indian,Mihir-10,unpublished,21,Cameratrap,,12/4/21,,,18.428,74.237,,,35,,,yes
+24,Indian,Indian,Indian,Indian,Mihir-11,unpublished,21,Cameratrap,,1/3/21,,,18.359,74.43,,,63,,,yes
+25,Indian,Indian,Indian,Indian,Mihir-11,unpublished,21,Cameratrap,,11/22/21,,,18.359,74.43,,,22,,,yes
+26,Indian,Indian,Indian,Indian,Mihir-12,unpublished,21,Cameratrap,,12/29/13,,,18.188,74.454,,,59,,,yes
+27,Indian,Indian,Indian,Indian,Mihir-13,unpublished,21,Cameratrap,,1/15/13,,,18.591,74.086,,,75,,,yes
+28,Indian,Indian,Indian,Indian,Mihir-14,unpublished,21,Cameratrap,,12/13/21,,,18.888,74.506,,,44,,,yes
+29,Spain,Europe,Iberian,Iberian,Lopezbao-1,unpublished,21,GPS,,5/19/17,,,43.440081,-6.613698,,,201,,,yes
+30,Spain,Europe,Iberian,Iberian,Lopezbao-2,unpublished,21,GPS,,5/16/18,,,43.349828,-6.932772,,,197,,,yes
+31,Spain,Europe,Iberian,Iberian,Lopezbao-3,unpublished,21,GPS,,5/29/18,,,43.391736,-6.685308,,,210,,,yes
+32,Spain,Europe,Iberian,Iberian,Lopezbao-4,unpublished,21,GPS,,5/31/19,,,43.187722,-5.899289,,,212,,,yes
+33,SaudiArabia,Middle East,Middle East,Middle East,Zafar-1,unpublished,21,six wolf pups were captured on 13 March 2012 that were four to five days old,,3/9/12,,,24.244004,44.767246,,,129,,,yes
+34,SaudiArabia,Middle East,Middle East,Middle East,Zafar-2,unpublished,21,four pups were captured on 11 April 2017 (just a few days old) by a shephard and hand reared them in a tent,,4/6/17,,,20.719524,40.839325,,,158,,,yes
+35,SaudiArabia,Middle East,Middle East,Middle East,Zafar-3,unpublished,21,2 pups captured on 18 April 2019 and theese young ones were probably a week old. ,,4/11/19,,,30.50946,39.169546,,,162,,,yes
+36,Spain,Europe,Iberian,Iberian,Llaneza-1,unpublished,21,Litter removed,,5/18/81,5/16/81,5/20/81,43.183333,-5.9,,,200,198,202,yes
+37,Spain,Europe,Iberian,Iberian,Llaneza-2,unpublished,21,Litter removed,,5/12/81,5/10/81,5/15/81,43.13333333,-6,,,194,192,197,yes
+38,Spain,Europe,Iberian,Iberian,Llaneza-3,unpublished,21,Litter removed,,5/8/82,5/5/82,5/10/82,43.15,-6,,,189,186,191,yes
+39,Spain,Europe,Iberian,Iberian,Llaneza-4,unpublished,21,Litter removed,,5/26/82,5/23/82,5/30/82,43.2,-5.933333333,,,207,203,211,yes
+40,Spain,Europe,Iberian,Iberian,Llaneza-5,unpublished,21,Litter removed,,5/28/85,5/25/85,6/1/85,43.31666667,-6.716666667,,,210,207,214,yes
+41,Spain,Europe,Iberian,Iberian,Llaneza-6,unpublished,21,Litter removed,,5/26/86,5/20/86,6/1/86,43.25,-6.65,,,207,201,211,yes
+42,Spain,Europe,Iberian,Iberian,Llaneza-7,unpublished,21,Litter removed,,5/25/87,5/20/87,6/1/87,43.3,-6.716666667,,,206,201,212,yes
+43,Spain,Europe,Iberian,Iberian,Llaneza-8,unpublished,21,Litter removed,,5/21/88,5/18/88,5/23/88,43.18333333,-5.883333333,,,202,199,204,yes
+44,Spain,Europe,Iberian,Iberian,Llaneza-9,unpublished,21,Litter removed,,5/17/88,5/14/88,5/20/88,43.1,-5.183333333,,,195,192,198,yes
+45,Spain,Europe,Iberian,Iberian,Llaneza-10,unpublished,21,Litter removed,,5/28/91,5/25/91,5/30/91,43.23333333,-6.3,,,209,206,211,yes
+46,Spain,Europe,Iberian,Iberian,Llaneza-11,unpublished,21,Litter removed,,5/22/91,5/20/91,5/24/91,43.38333333,-7.066666667,,,203,201,205,yes
+47,Spain,Europe,Iberian,Iberian,Llaneza-12,unpublished,21,Litter removed,,5/27/93,5/25/93,5/30/93,43.31666667,-7.083333333,,,209,207,212,yes
+48,Spain,Europe,Iberian,Iberian,Llaneza-13,unpublished,21,Litter removed,,5/13/93,5/10/93,5/15/93,43.25,-6.283333333,,,195,192,197,yes
+,Spain,Europe,Iberian,Iberian,Llaneza-22,unpublished,21,Litter removed,,1/4/93,,,43.33333333,-7.033333333,,,64,,,yes
+49,Spain,Europe,Iberian,Iberian,Llaneza-14,unpublished,21,Litter removed,,5/3/93,5/1/93,5/6/93,43.33333333,-7.033333333,,,186,184,189,yes
+50,Spain,Europe,Iberian,Iberian,Llaneza-15,unpublished,21,Litter removed,,5/22/94,5/20/94,5/25/94,43.26666667,-6.083333333,,,203,201,206,yes
+51,Spain,Europe,Iberian,Iberian,Llaneza-16,unpublished,21,Litter removed,,5/14/04,5/12/04,5/16/04,43.25,-4.116666667,,,195,193,197,yes
+52,Spain,Europe,Iberian,Iberian,Llaneza-17,unpublished,21,Litter removed,,5/20/97,5/17/97,5/23/97,43.1,-7.85,,,202,199,205,yes
+53,Spain,Europe,Iberian,Iberian,Llaneza-18,unpublished,21,Litter removed,,5/15/98,5/12/98,5/17/98,43.46666667,-7.55,,,196,193,198,yes
+54,Spain,Europe,Iberian,Iberian,Llaneza-19,unpublished,21,Litter removed,,5/11/99,5/8/99,5/14/99,43.25,-7.133333333,,,192,189,195,yes
+55,Spain,Europe,Iberian,Iberian,Llaneza-20,unpublished,21,Litter removed,,5/13/98,5/11/98,5/15/98,43,-7.983333333,,,194,192,196,yes
+56,Spain,Europe,Iberian,Iberian,Llaneza-21,unpublished,21,GPS,,5/16/14,5/16/14,5/17/14,42.56666667,-8.45,,,197,197,198,yes
+,Spain,Europe,Iberian,Iberian,Llaneza-22,unpublished,21,?,,1/4/xx,,,43.33333333,-7.033333333,,,64,,,yes
+57,Sweden,Europe,Europe,Europe,Hakan-1,unpublished,21,estimated from movements of GPS collared wolves,,5/5/02,,,60.226,14.041,,,186,,,yes
+58,Sweden,Europe,Europe,Europe,Hakan-2,unpublished,21,estimated from movements of GPS collared wolves,,5/12/02,,,61.451,11.354,,,193,,,yes
+59,Sweden,Europe,Europe,Europe,Hakan-3,unpublished,21,estimated from movements of GPS collared wolves,,5/13/03,,,61.457,11.496,,,194,,,yes
+60,Sweden,Europe,Europe,Europe,Hakan-4,unpublished,21,estimated from movements of GPS collared wolves,,5/5/03,,,59.614,12.001,,,186,,,yes
+61,Sweden,Europe,Europe,Europe,Hakan-5,unpublished,21,estimated from movements of GPS collared wolves,,4/25/04,,,60.316,13.644,,,176,,,yes
+62,Sweden,Europe,Europe,Europe,Hakan-6,unpublished,21,estimated from movements of GPS collared wolves,,4/27/04,,,60.119,13.315,,,178,,,yes
+63,Sweden,Europe,Europe,Europe,Hakan-7,unpublished,21,estimated from movements of GPS collared wolves,,5/20/04,,,61.756,10.922,,,201,,,yes
+64,Sweden,Europe,Europe,Europe,Hakan-8,unpublished,21,estimated from movements of GPS collared wolves,,5/2/05,,,60.987,15.598,,,184,,,yes
+65,Sweden,Europe,Europe,Europe,Hakan-9,unpublished,21,estimated from movements of GPS collared wolves,,4/28/05,,,59.576,14.033,,,180,,,yes
+66,Sweden,Europe,Europe,Europe,Hakan-10,unpublished,21,estimated from movements of GPS collared wolves,,5/1/08,,,60.177,14.064,,,182,,,yes
+67,Sweden,Europe,Europe,Europe,Hakan-11,unpublished,21,estimated from movements of GPS collared wolves,,5/1/09,,,60.201,14.101,,,183,,,yes
+68,Sweden,Europe,Europe,Europe,Hakan-12,unpublished,21,estimated from movements of GPS collared wolves,,5/10/10,,,57.174,15.917,,,191,,,yes
+69,Sweden,Europe,Europe,Europe,Hakan-13,unpublished,21,estimated from movements of GPS collared wolves,,4/26/09,,,61.371,13.096,,,178,,,yes
+70,Sweden,Europe,Europe,Europe,Hakan-14,unpublished,21,estimated from movements of GPS collared wolves,,4/27/10,,,61.424,12.928,,,178,,,yes
+71,Sweden,Europe,Europe,Europe,Hakan-15,unpublished,21,estimated from movements of GPS collared wolves,,5/5/09,,,61.572,16.078,,,187,,,yes
+72,Sweden,Europe,Europe,Europe,Hakan-16,unpublished,21,estimated from movements of GPS collared wolves,,5/1/07,,,60.315,12.653,,,182,,,yes
+73,Sweden,Europe,Europe,Europe,Hakan-17,unpublished,21,estimated from movements of GPS collared wolves,,4/27/09,,,59.955,15.233,,,179,,,yes
+74,Sweden,Europe,Europe,Europe,Hakan-18,unpublished,21,estimated from movements of GPS collared wolves,,4/28/10,,,59.844,15.232,,,179,,,yes
+75,Sweden,Europe,Europe,Europe,Hakan-19,unpublished,21,estimated from movements of GPS collared wolves,,4/27/10,,,59.536,14.438,,,178,,,yes
+76,Sweden,Europe,Europe,Europe,Hakan-20,unpublished,21,estimated from movements of GPS collared wolves,,4/24/10,,,59.593,18.415,,,175,,,yes
+77,Sweden,Europe,Europe,Europe,Hakan-21,unpublished,21,estimated from movements of GPS collared wolves,,5/8/11,,,60.529,12.454,,,189,,,yes
+78,Sweden,Europe,Europe,Europe,Hakan-22,unpublished,21,estimated from movements of GPS collared wolves,,5/11/11,,,61.662,15.549,,,192,,,yes
+79,Sweden,Europe,Europe,Europe,Hakan-23,unpublished,21,estimated from movements of GPS collared wolves,,5/6/09,,,61.533,11.644,,,188,,,yes
+80,Sweden,Europe,Europe,Europe,Hakan-24,unpublished,21,estimated from movements of GPS collared wolves,,5/12/14,,,61.418,11.188,,,193,,,yes
+81,Sweden,Europe,Europe,Europe,Hakan-25,unpublished,21,estimated from movements of GPS collared wolves,,4/24/17,,,61.584,11.42,,,176,,,yes
+82,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Alaska-1,unpublished,21,GPS location of collared wolves and site vertification on the ground with trail cameras,,4/21/16,,,55.75,-132.52,,,172,,,yes
+83,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Alaska-2,unpublished,21,GPS location of collared wolves and site vertification on the ground with trail cameras,,4/28/13,,,55.87,-133.09,,,180,,,yes
+84,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Alaska-3,unpublished,21,GPS location of collared wolves and site vertification on the ground with trail cameras,,4/20/17,,,55.75,-132.52,,,172,,,yes
+85,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Alaska-4,unpublished,21,GPS location of collared wolves and site vertification on the ground with trail cameras,,5/9/14,,,55.76,-132.7,,,190,,,yes
+86,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Alaska-5,unpublished,21,GPS location of collared wolves and site vertification on the ground with trail cameras,,5/3/18,,,58.91,-134.92,,,184,,,yes
+87,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Alaska-6,unpublished,21,GPS location of collared wolves and site vertification on the ground with trail cameras,,5/5/19,,,58.91,-134.92,,,186,,,yes
+88,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Alaska-7,unpublished,21,GPS location of collared wolves and site vertification on the ground with trail cameras,,5/2/19,,,58.85,-134.81,,,183,,,yes
+89,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Alaska-8,unpublished,21,GPS location of collared wolves and site vertification on the ground with trail cameras,,4/27/20,,,55.43,-131.38,,,178,,,yes
+90,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-1,unpublished,21,GPS,,5/16/03,,,62.408363,-146.81178,,,197,,,yes
+91,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-2,unpublished,21,GPS,,5/10/01,,,62.408363,-146.81178,,,192,,,yes
+92,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-3,unpublished,21,GPS,,5/19/05,,,62.408363,-146.81178,,,201,,,yes
+93,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-4,unpublished,21,GPS,,5/12/01,,,62.408363,-146.81178,,,194,,,yes
+94,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-4,unpublished,21,GPS,,4/7/02,,,62.408363,-146.81178,,,158,,,yes
+95,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-5,unpublished,21,GPS,,4/23/05,,,62.408363,-146.81178,,,175,,,yes
+96,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-6,unpublished,21,GPS,,5/9/01,,,62.408363,-146.81178,,,191,,,yes
+97,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-6,unpublished,21,GPS,,4/24/02,,,62.408363,-146.81178,,,175,,,yes
+98,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-7,unpublished,21,GPS,,5/3/00,,,62.408363,-146.81178,,,184,,,yes
+99,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-8,unpublished,21,GPS,,4/22/05,,,62.408363,-146.81178,,,174,,,yes
+100,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-9,unpublished,21,GPS,,5/20/07,,,52.9705483,-117.69928,,,201,,,yes
+101,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-9,unpublished,21,GPS,,5/1/08,,,52.9705483,-117.69928,,,182,,,yes
+102,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-9,unpublished,21,GPS,,4/27/09,,,52.9705483,-117.69928,,,179,,,yes
+103,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-10,unpublished,21,GPS,,4/11/10,,,52.9705483,-117.69928,,,162,,,yes
+104,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-10,unpublished,21,GPS,,4/27/11,,,52.9705483,-117.69928,,,178,,,yes
+105,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-11,unpublished,21,GPS,,4/29/03,,,52.9705483,-117.69928,,,180,,,yes
+106,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-12,unpublished,21,GPS,,4/15/10,,,52.9705483,-117.69928,,,166,,,yes
+107,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-13,unpublished,21,GPS,,4/14/01,,,52.9705483,-117.69928,,,166,,,yes
+108,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-14,unpublished,21,GPS,,5/2/09,,,52.9705483,-117.69928,,,184,,,yes
+109,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-15,unpublished,21,GPS,,4/20/07,,,52.9705483,-117.69928,,,171,,,yes
+110,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-16,unpublished,21,GPS,,4/23/01,,,52.9705483,-117.69928,,,175,,,yes
+111,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-17,unpublished,21,GPS,,5/12/04,,,52.9705483,-117.69928,,,193,,,yes
+112,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-17,unpublished,21,GPS,,5/8/05,,,52.9705483,-117.69928,,,190,,,yes
+113,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-17,unpublished,21,GPS,,4/28/06,,,52.9705483,-117.69928,,,179,,,yes
+114,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-18,unpublished,21,GPS,,4/18/07,,,52.9705483,-117.69928,,,169,,,yes
+115,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-18,unpublished,21,GPS,,5/1/08,,,52.9705483,-117.69928,,,182,,,yes
+116,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-19,unpublished,21,GPS,,4/8/01,,,52.9705483,-117.69928,,,160,,,yes
+117,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-20,unpublished,21,GPS,,4/23/03,,,52.9705483,-117.69928,,,174,,,yes
+118,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-20,unpublished,21,GPS,,4/22/04,,,52.9705483,-117.69928,,,173,,,yes
+119,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-21,unpublished,21,GPS,,4/4/07,,,52.9705483,-117.69928,,,155,,,yes
+120,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-22,unpublished,21,GPS,,4/16/07,,,52.9705483,-117.69928,,,167,,,yes
+121,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-23,unpublished,21,GPS,,3/29/00,,,52.9705483,-117.69928,,,149,,,yes
+122,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-23,unpublished,21,GPS,,4/16/01,,,52.9705483,-117.69928,,,168,,,yes
+123,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-24,unpublished,21,GPS,,4/30/04,,,52.9705483,-117.69928,,,181,,,yes
+124,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-24,unpublished,21,GPS,,5/3/04,,,52.9705483,-117.69928,,,184,,,yes
+125,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-25,unpublished,21,GPS,,4/26/03,,,52.9705483,-117.69928,,,177,,,yes
+126,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-25,unpublished,21,GPS,,4/16/04,,,52.9705483,-117.69928,,,167,,,yes
+127,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-26,unpublished,21,GPS,,4/27/03,,,52.9705483,-117.69928,,,178,,,yes
+128,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-26,unpublished,21,GPS,,4/23/07,,,52.9705483,-117.69928,,,174,,,yes
+129,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-26,unpublished,21,GPS,,4/24/09,,,52.9705483,-117.69928,,,176,,,yes
+130,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-26,unpublished,21,GPS,,4/26/10,,,52.9705483,-117.69928,,,177,,,yes
+131,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-27,unpublished,21,GPS,,4/23/00,,,52.9705483,-117.69928,,,174,,,yes
+132,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-28,unpublished,21,GPS,,4/30/07,,,52.9705483,-117.69928,,,181,,,yes
+133,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-28,unpublished,21,GPS,,4/15/09,,,52.9705483,-117.69928,,,167,,,yes
+134,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-28,unpublished,21,GPS,,4/5/10,,,52.9705483,-117.69928,,,156,,,yes
+135,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-29,unpublished,21,GPS,,4/19/06,,,52.9705483,-117.69928,,,170,,,yes
+136,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-29,unpublished,21,GPS,,4/22/07,,,52.9705483,-117.69928,,,173,,,yes
+137,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-29,unpublished,21,GPS,,4/26/09,,,52.9705483,-117.69928,,,178,,,yes
+138,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-29,unpublished,21,GPS,,4/28/10,,,52.9705483,-117.69928,,,179,,,yes
+139,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-30,unpublished,21,GPS,,4/18/04,,,52.9705483,-117.69928,,,169,,,yes
+140,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-31,unpublished,21,GPS,,4/24/07,,,55.8598838,-112.96679,,,175,,,yes
+141,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-32,unpublished,21,GPS,,4/3/07,,,55.8598838,-112.96679,,,154,,,yes
+142,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-33,unpublished,21,GPS,,5/14/06,,,55.8598838,-112.96679,,,195,,,yes
+143,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-33,unpublished,21,GPS,,5/10/07,,,55.8598838,-112.96679,,,191,,,yes
+144,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-34,unpublished,21,GPS,,5/2/06,,,55.8598838,-112.96679,,,183,,,yes
+145,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-35,unpublished,21,GPS,,4/22/07,,,55.8598838,-112.96679,,,173,,,yes
+146,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-36,unpublished,21,GPS,,4/24/06,,,55.8598838,-112.96679,,,175,,,yes
+147,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-37,unpublished,21,GPS,,4/14/06,,,55.8598838,-112.96679,,,165,,,yes
+148,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-38,unpublished,21,GPS,,5/8/04,,,63.6352304,-150.48638,,,189,,,yes
+149,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-39,unpublished,21,GPS,,4/5/05,,,63.6352304,-150.48638,,,157,,,yes
+150,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-39,unpublished,21,GPS,,5/10/06,,,63.6352304,-150.48638,,,191,,,yes
+151,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-39,unpublished,21,GPS,,5/18/07,,,63.6352304,-150.48638,,,199,,,yes
+152,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-39,unpublished,21,GPS,,5/4/10,,,63.6352304,-150.48638,,,185,,,yes
+153,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-39,unpublished,21,GPS,,4/14/13,,,63.6352304,-150.48638,,,166,,,yes
+154,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-39,unpublished,21,GPS,,5/2/14,,,63.6352304,-150.48638,,,183,,,yes
+155,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-39,unpublished,21,GPS,,5/14/15,,,63.6352304,-150.48638,,,195,,,yes
+156,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-39,unpublished,21,GPS,,5/17/16,,,63.6352304,-150.48638,,,198,,,yes
+157,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-40,unpublished,21,GPS,,4/17/07,,,63.6352304,-150.48638,,,168,,,yes
+158,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-41,unpublished,21,GPS,,5/13/05,,,63.6352304,-150.48638,,,195,,,yes
+159,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-41,unpublished,21,GPS,,5/14/06,,,63.6352304,-150.48638,,,195,,,yes
+160,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-42,unpublished,21,GPS,,5/4/16,,,63.6352304,-150.48638,,,185,,,yes
+161,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-43,unpublished,21,GPS,,5/8/14,,,63.6352304,-150.48638,,,189,,,yes
+162,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-44,unpublished,21,GPS,,5/17/04,,,63.6352304,-150.48638,,,198,,,yes
+163,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-44,unpublished,21,GPS,,5/8/08,,,63.6352304,-150.48638,,,189,,,yes
+164,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-44,unpublished,21,GPS,,4/29/09,,,63.6352304,-150.48638,,,181,,,yes
+165,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-44,unpublished,21,GPS,,4/6/11,,,63.6352304,-150.48638,,,157,,,yes
+166,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-44,unpublished,21,GPS,,3/20/11,,,63.6352304,-150.48638,,,140,,,yes
+167,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-44,unpublished,21,GPS,,5/14/12,,,63.6352304,-150.48638,,,195,,,yes
+168,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-44,unpublished,21,GPS,,5/5/13,,,63.6352304,-150.48638,,,187,,,yes
+169,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-44,unpublished,21,GPS,,5/3/14,,,63.6352304,-150.48638,,,184,,,yes
+170,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-44,unpublished,21,GPS,,5/6/15,,,63.6352304,-150.48638,,,187,,,yes
+171,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-44,unpublished,21,GPS,,3/12/16,,,63.6352304,-150.48638,,,132,,,yes
+172,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-45,unpublished,21,GPS,,5/2/15,,,63.6352304,-150.48638,,,183,,,yes
+173,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-46,unpublished,21,GPS,,5/18/04,,,63.6352304,-150.48638,,,199,,,yes
+174,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-46,unpublished,21,GPS,,5/15/05,,,63.6352304,-150.48638,,,197,,,yes
+175,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-46,unpublished,21,GPS,,5/12/06,,,63.6352304,-150.48638,,,193,,,yes
+176,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-46,unpublished,21,GPS,,4/22/09,,,63.6352304,-150.48638,,,174,,,yes
+177,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-46,unpublished,21,GPS,,5/1/10,,,63.6352304,-150.48638,,,182,,,yes
+178,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-46,unpublished,21,GPS,,5/20/11,,,63.6352304,-150.48638,,,201,,,yes
+179,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-46,unpublished,21,GPS,,4/24/12,,,63.6352304,-150.48638,,,175,,,yes
+180,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-46,unpublished,21,GPS,,4/30/14,,,63.6352304,-150.48638,,,181,,,yes
+181,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-46,unpublished,21,GPS,,5/5/15,,,63.6352304,-150.48638,,,186,,,yes
+182,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-46,unpublished,21,GPS,,5/18/16,,,63.6352304,-150.48638,,,199,,,yes
+183,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-47,unpublished,21,GPS,,5/14/07,,,63.6352304,-150.48638,,,195,,,yes
+184,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-47,unpublished,21,GPS,,5/9/08,,,63.6352304,-150.48638,,,190,,,yes
+185,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-48,unpublished,21,GPS,,4/4/07,,,63.6352304,-150.48638,,,155,,,yes
+186,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-48,unpublished,21,GPS,,3/20/13,,,63.6352304,-150.48638,,,141,,,yes
+187,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-48,unpublished,21,GPS,,4/14/15,,,63.6352304,-150.48638,,,165,,,yes
+188,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-49,unpublished,21,GPS,,5/3/11,,,63.6352304,-150.48638,,,184,,,yes
+189,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-50,unpublished,21,GPS,,5/16/10,,,63.6352304,-150.48638,,,197,,,yes
+190,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-51,unpublished,21,GPS,,5/10/14,,,63.6352304,-150.48638,,,191,,,yes
+191,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-52,unpublished,21,GPS,,5/21/12,,,63.6352304,-150.48638,,,202,,,yes
+192,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-52,unpublished,21,GPS,,5/12/15,,,63.6352304,-150.48638,,,193,,,yes
+193,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-52,unpublished,21,GPS,,5/15/16,,,63.6352304,-150.48638,,,196,,,yes
+194,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-53,unpublished,21,GPS,,5/5/13,,,63.6352304,-150.48638,,,187,,,yes
+195,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-53,unpublished,21,GPS,,4/29/14,,,63.6352304,-150.48638,,,180,,,yes
+196,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-53,unpublished,21,GPS,,5/6/16,,,63.6352304,-150.48638,,,187,,,yes
+197,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-54,unpublished,21,GPS,,3/25/09,,,63.6352304,-150.48638,,,146,,,yes
+198,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-54,unpublished,21,GPS,,4/27/10,,,63.6352304,-150.48638,,,178,,,yes
+199,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-54,unpublished,21,GPS,,5/17/11,,,63.6352304,-150.48638,,,198,,,yes
+200,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-55,unpublished,21,GPS,,5/13/12,,,63.6352304,-150.48638,,,194,,,yes
+201,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-56,unpublished,21,GPS,,5/5/06,,,63.6352304,-150.48638,,,186,,,yes
+202,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-57,unpublished,21,GPS,,5/12/05,,,63.6352304,-150.48638,,,194,,,yes
+203,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-57,unpublished,21,GPS,,5/5/07,,,63.6352304,-150.48638,,,186,,,yes
+204,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-57,unpublished,21,GPS,,4/27/08,,,63.6352304,-150.48638,,,178,,,yes
+205,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-57,unpublished,21,GPS,,5/5/10,,,63.6352304,-150.48638,,,186,,,yes
+206,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-57,unpublished,21,GPS,,6/8/11,,,63.6352304,-150.48638,,,220,,,yes
+207,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-57,unpublished,21,GPS,,5/13/12,,,63.6352304,-150.48638,,,194,,,yes
+208,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-57,unpublished,21,GPS,,4/16/13,,,63.6352304,-150.48638,,,168,,,yes
+209,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-57,unpublished,21,GPS,,5/1/14,,,63.6352304,-150.48638,,,182,,,yes
+210,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-57,unpublished,21,GPS,,4/26/15,,,63.6352304,-150.48638,,,177,,,yes
+211,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-57,unpublished,21,GPS,,4/27/16,,,63.6352304,-150.48638,,,178,,,yes
+212,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-58,unpublished,21,GPS,,4/2/07,,,63.6352304,-150.48638,,,153,,,yes
+213,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-59,unpublished,21,GPS,,5/6/16,,,63.6352304,-150.48638,,,187,,,yes
+214,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-60,unpublished,21,GPS,,4/21/04,,,63.6352304,-150.48638,,,172,,,yes
+215,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-60,unpublished,21,GPS,,4/27/05,,,63.6352304,-150.48638,,,179,,,yes
+216,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-60,unpublished,21,GPS,,4/28/06,,,63.6352304,-150.48638,,,179,,,yes
+217,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-60,unpublished,21,GPS,,5/19/07,,,63.6352304,-150.48638,,,200,,,yes
+218,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-60,unpublished,21,GPS,,5/3/08,,,63.6352304,-150.48638,,,184,,,yes
+219,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-60,unpublished,21,GPS,,5/15/09,,,63.6352304,-150.48638,,,197,,,yes
+220,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-61,unpublished,21,GPS,,5/9/15,,,63.6352304,-150.48638,,,190,,,yes
+221,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-61,unpublished,21,GPS,,5/9/16,,,63.6352304,-150.48638,,,190,,,yes
+222,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-62,unpublished,21,GPS,,5/17/11,,,63.6352304,-150.48638,,,198,,,yes
+223,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-62,unpublished,21,GPS,,5/14/12,,,63.6352304,-150.48638,,,195,,,yes
+224,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-63,unpublished,21,GPS,,5/12/10,,,63.6352304,-150.48638,,,193,,,yes
+225,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-64,unpublished,21,GPS,,5/7/15,,,63.6352304,-150.48638,,,188,,,yes
+226,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-64,unpublished,21,GPS,,5/6/16,,,63.6352304,-150.48638,,,187,,,yes
+227,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-65,unpublished,21,GPS,,5/20/07,,,63.6352304,-150.48638,,,201,,,yes
+228,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-65,unpublished,21,GPS,,5/10/08,,,63.6352304,-150.48638,,,191,,,yes
+229,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-65,unpublished,21,GPS,,5/12/11,,,63.6352304,-150.48638,,,193,,,yes
+230,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-65,unpublished,21,GPS,,5/27/15,,,63.6352304,-150.48638,,,208,,,yes
+231,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-65,unpublished,21,GPS,,5/16/16,,,63.6352304,-150.48638,,,197,,,yes
+232,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-66,unpublished,21,GPS,,5/11/10,,,63.6352304,-150.48638,,,192,,,yes
+233,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-67,unpublished,21,GPS,,5/1/09,,,60.4952859,-154.5812,,,183,,,yes
+234,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-67,unpublished,21,GPS,,5/4/10,,,60.4952859,-154.5812,,,185,,,yes
+235,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-67,unpublished,21,GPS,,4/29/11,,,60.4952859,-154.5812,,,180,,,yes
+236,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-68,unpublished,21,GPS,,5/12/10,,,60.4952859,-154.5812,,,193,,,yes
+237,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-68,unpublished,21,GPS,,5/7/12,,,60.4952859,-154.5812,,,188,,,yes
+238,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-69,unpublished,21,GPS,,5/23/09,,,60.4952859,-154.5812,,,205,,,yes
+239,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-69,unpublished,21,GPS,,5/14/12,,,60.4952859,-154.5812,,,195,,,yes
+240,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-70,unpublished,21,GPS,,4/21/09,,,60.4952859,-154.5812,,,173,,,yes
+241,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-70,unpublished,21,GPS,,4/19/10,,,60.4952859,-154.5812,,,170,,,yes
+242,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-71,unpublished,21,GPS,,5/16/13,,,60.4952859,-154.5812,,,198,,,yes
+243,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-72,unpublished,21,GPS,,4/16/11,,,60.4952859,-154.5812,,,167,,,yes
+244,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-73,unpublished,21,GPS,,5/16/03,,,65.046937,-143.22796,,,197,,,yes
+245,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-74,unpublished,21,GPS,,4/25/03,,,65.046937,-143.22796,,,176,,,yes
+246,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-74,unpublished,21,GPS,,5/8/04,,,65.046937,-143.22796,,,189,,,yes
+247,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-74,unpublished,21,GPS,,5/8/05,,,65.046937,-143.22796,,,190,,,yes
+248,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-74,unpublished,21,GPS,,5/13/06,,,65.046937,-143.22796,,,194,,,yes
+249,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-74,unpublished,21,GPS,,5/15/07,,,65.046937,-143.22796,,,196,,,yes
+250,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-74,unpublished,21,GPS,,5/20/08,,,65.046937,-143.22796,,,201,,,yes
+251,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-74,unpublished,21,GPS,,5/12/09,,,65.046937,-143.22796,,,194,,,yes
+252,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-74,unpublished,21,GPS,,5/8/11,,,65.046937,-143.22796,,,189,,,yes
+253,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-74,unpublished,21,GPS,,5/10/12,,,65.046937,-143.22796,,,191,,,yes
+254,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-75,unpublished,21,GPS,,5/7/06,,,65.046937,-143.22796,,,188,,,yes
+255,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-76,unpublished,21,GPS,,5/19/07,,,65.046937,-143.22796,,,200,,,yes
+256,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-76,unpublished,21,GPS,,5/10/08,,,65.046937,-143.22796,,,191,,,yes
+257,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-76,unpublished,21,GPS,,4/19/09,,,65.046937,-143.22796,,,171,,,yes
+258,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-76,unpublished,21,GPS,,5/18/10,,,65.046937,-143.22796,,,199,,,yes
+259,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-77,unpublished,21,GPS,,5/22/03,,,65.046937,-143.22796,,,203,,,yes
+260,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-77,unpublished,21,GPS,,5/18/04,,,65.046937,-143.22796,,,199,,,yes
+261,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-77,unpublished,21,GPS,,5/13/05,,,65.046937,-143.22796,,,195,,,yes
+262,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-78,unpublished,21,GPS,,5/14/06,,,65.046937,-143.22796,,,195,,,yes
+263,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-78,unpublished,21,GPS,,5/15/07,,,65.046937,-143.22796,,,196,,,yes
+264,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-79,unpublished,21,GPS,,5/7/08,,,65.046937,-143.22796,,,188,,,yes
+265,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-80,unpublished,21,GPS,,5/18/07,,,65.046937,-143.22796,,,199,,,yes
+266,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-80,unpublished,21,GPS,,5/3/09,,,65.046937,-143.22796,,,185,,,yes
+267,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-81,unpublished,21,GPS,,5/3/03,,,65.046937,-143.22796,,,184,,,yes
+268,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-82,unpublished,21,GPS,,5/7/06,,,65.046937,-143.22796,,,188,,,yes
+269,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-83,unpublished,21,GPS,,5/18/03,,,65.046937,-143.22796,,,199,,,yes
+270,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-84,unpublished,21,GPS,,5/9/08,,,65.046937,-143.22796,,,190,,,yes
+271,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-84,unpublished,21,GPS,,5/25/09,,,65.046937,-143.22796,,,207,,,yes
+272,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-84,unpublished,21,GPS,,5/6/10,,,65.046937,-143.22796,,,187,,,yes
+273,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-84,unpublished,21,GPS,,4/28/11,,,65.046937,-143.22796,,,179,,,yes
+274,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-84,unpublished,21,GPS,,5/6/12,,,65.046937,-143.22796,,,187,,,yes
+275,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-84,unpublished,21,GPS,,5/9/13,,,65.046937,-143.22796,,,191,,,yes
+276,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-85,unpublished,21,GPS,,4/29/10,,,65.046937,-143.22796,,,180,,,yes
+277,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-85,unpublished,21,GPS,,5/2/11,,,65.046937,-143.22796,,,183,,,yes
+278,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-85,unpublished,21,GPS,,5/9/12,,,65.046937,-143.22796,,,190,,,yes
+279,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-85,unpublished,21,GPS,,4/3/13,,,65.046937,-143.22796,,,155,,,yes
+280,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-86,unpublished,21,GPS,,5/16/10,,,65.046937,-143.22796,,,197,,,yes
+281,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-86,unpublished,21,GPS,,5/3/11,,,65.046937,-143.22796,,,184,,,yes
+282,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-86,unpublished,21,GPS,,5/6/13,,,65.046937,-143.22796,,,188,,,yes
+283,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-87,unpublished,21,GPS,,5/5/13,,,65.046937,-143.22796,,,187,,,yes
+284,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-88,unpublished,21,GPS,,5/9/12,,,65.046937,-143.22796,,,190,,,yes
+285,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-88,unpublished,21,GPS,,5/12/13,,,65.046937,-143.22796,,,194,,,yes
+286,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-88,unpublished,21,GPS,,5/12/14,,,65.046937,-143.22796,,,193,,,yes
+287,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-89,unpublished,21,GPS,,4/29/12,,,65.046937,-143.22796,,,180,,,yes
+288,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-89,unpublished,21,GPS,,5/1/13,,,65.046937,-143.22796,,,183,,,yes
+289,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-90,unpublished,21,GPS,,5/18/07,,,65.046937,-143.22796,,,199,,,yes
+290,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-90,unpublished,21,GPS,,5/7/08,,,65.046937,-143.22796,,,188,,,yes
+291,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-90,unpublished,21,GPS,,5/9/09,,,65.046937,-143.22796,,,191,,,yes
+292,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-90,unpublished,21,GPS,,5/6/10,,,65.046937,-143.22796,,,187,,,yes
+293,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-90,unpublished,21,GPS,,5/7/11,,,65.046937,-143.22796,,,188,,,yes
+294,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-90,unpublished,21,GPS,,5/20/12,,,65.046937,-143.22796,,,201,,,yes
+295,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-90,unpublished,21,GPS,,5/11/13,,,65.046937,-143.22796,,,193,,,yes
+296,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-91,unpublished,21,GPS,,5/7/05,,,65.046937,-143.22796,,,189,,,yes
+297,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-91,unpublished,21,GPS,,5/17/06,,,65.046937,-143.22796,,,198,,,yes
+298,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-92,unpublished,21,GPS,,5/4/08,,,65.046937,-143.22796,,,185,,,yes
+299,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-93,unpublished,21,GPS,,5/19/07,,,65.046937,-143.22796,,,200,,,yes
+300,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-94,unpublished,21,GPS,,5/5/11,,,65.046937,-143.22796,,,186,,,yes
+301,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-95,unpublished,21,GPS,,4/29/06,,,65.046937,-143.22796,,,180,,,yes
+302,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-96,unpublished,21,GPS,,5/3/12,,,65.046937,-143.22796,,,184,,,yes
+303,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-97,unpublished,21,GPS,,5/8/11,,,65.046937,-143.22796,,,189,,,yes
+304,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-97,unpublished,21,GPS,,5/3/12,,,65.046937,-143.22796,,,184,,,yes
+305,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-97,unpublished,21,GPS,,5/20/13,,,65.046937,-143.22796,,,202,,,yes
+306,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-97,unpublished,21,GPS,,5/11/15,,,65.046937,-143.22796,,,192,,,yes
+307,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-98,unpublished,21,GPS,,5/22/07,,,67.8361967,-135.76367,,,203,,,yes
+308,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-99,unpublished,21,GPS,,5/13/07,,,67.8361967,-135.76367,,,194,,,yes
+309,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-100,unpublished,21,GPS,,5/10/07,,,67.8361967,-135.76367,,,191,,,yes
+310,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-101,unpublished,21,GPS,,4/15/17,,,60.8806033,-116.11118,,,167,,,yes
+311,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-102,unpublished,21,GPS,,5/4/17,,,60.8806033,-116.11118,,,186,,,yes
+312,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-103,unpublished,21,GPS,,4/16/17,,,60.8806033,-116.11118,,,168,,,yes
+313,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-104,unpublished,21,GPS,,5/7/16,,,60.8806033,-116.11118,,,188,,,yes
+314,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-104,unpublished,21,GPS,,5/11/17,,,60.8806033,-116.11118,,,193,,,yes
+315,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-105,unpublished,21,GPS,,5/5/16,,,60.8806033,-116.11118,,,186,,,yes
+316,Alaska-Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mahoney-106,unpublished,21,GPS,,5/2/16,,,60.8806033,-116.11118,,,183,,,yes
+317,Poland,Europe,Europe,Europe,Schmidt-1,published,21,GPS and snow tracking,,4/29/95,,,52.75,23.8,,,180,,,yes
+318,Poland,Europe,Europe,Europe,Schmidt-1,published,21,GPS and snow tracking,,4/28/96,,,52.75,23.8,,,179,,,yes
+319,Poland,Europe,Europe,Europe,Schmidt-1,published,21,GPS and snow tracking,,5/2/97,,,52.75,23.8,,,184,,,yes
+320,Poland,Europe,Europe,Europe,Schmidt-2,published,21,GPS and snow tracking,,5/2/98,,,52.75,23.8,,,183,,,yes
+321,Poland,Europe,Europe,Europe,Schmidt-2,published,21,GPS and snow tracking,,4/21/99,,,52.75,23.8,,,172,,,yes
+322,Poland,Europe,Europe,Europe,Schmidt-3,published,21,GPS and snow tracking,,5/2/95,,,52.75,23.8,,,183,,,yes
+323,Poland,Europe,Europe,Europe,Schmidt-3,published,21,GPS and snow tracking,,5/3/97,,,52.75,23.8,,,185,,,yes
+324,Poland,Europe,Europe,Europe,Schmidt-4,published,21,GPS and snow tracking,,5/6/98,,,52.75,23.8,,,187,,,yes
+325,Poland,Europe,Europe,Europe,Schmidt-5,published,21,GPS and snow tracking,,5/7/98,,,52.75,23.8,,,188,,,yes
+326,Poland,Europe,Europe,Europe,Schmidt-4,published,21,GPS and snow tracking,,5/10/99,,,52.75,23.8,,,191,,,yes
+327,Portugal,Europe,Iberian,Iberian,Rio-Maior-1,published,21,GPS,,5/21/09,,,41.912064,-8.507271,,,203,,,yes
+328,Portugal,Europe,Iberian,Iberian,Rio-Maior-2,published,21,GPS,,5/28/10,,,41.912064,-8.507271,,,209,,,yes
+329,Portugal,Europe,Iberian,Iberian,Rio-Maior-3,published,21,GPS,,5/26/13,,,41.912064,-8.507271,,,208,,,yes
+330,USA,NorthAmerica,NorthAmerica,NorthAmerica,Minnesota-1,unpublished,21,GPS,,4/16/15,,,48.4073962,-92.911481,,,167,,,yes
+331,USA,NorthAmerica,NorthAmerica,NorthAmerica,Minnesota-2,unpublished,21,GPS,,4/11/15,,,48.4004563,-92.690825,,,162,,,yes
+332,USA,NorthAmerica,NorthAmerica,NorthAmerica,Minnesota-3,unpublished,21,GPS,,4/12/16,,,48.3264524,-92.864119,,,163,,,yes
+333,USA,NorthAmerica,NorthAmerica,NorthAmerica,Minnesota-4,unpublished,21,GPS,,4/9/17,,,48.4110465,-92.991284,,,161,,,yes
+334,USA,NorthAmerica,NorthAmerica,NorthAmerica,Minnesota-5,unpublished,21,GPS,,4/3/18,,,48.3191994,-92.82908,,,154,,,yes
+335,USA,NorthAmerica,NorthAmerica,NorthAmerica,Minnesota-6,unpublished,21,GPS,,4/6/18,,,48.4066462,-92.982772,,,157,,,yes
+336,USA,NorthAmerica,NorthAmerica,NorthAmerica,Minnesota-7,unpublished,21,GPS,,4/8/18,,,48.4131055,-92.701046,,,159,,,yes
+337,USA,NorthAmerica,NorthAmerica,NorthAmerica,Minnesota-8,unpublished,21,remote video camera,,4/11/19,,,48.4066462,-92.982772,,,162,,,yes
+338,USA,NorthAmerica,NorthAmerica,NorthAmerica,Minnesota-9,unpublished,21,GPS,,4/29/19,,,48.374847,-93.652611,,,180,,,yes
+339,Indian,Indian,Indian,Indian,Habib-1,unpublished,21,Pup sighting - Active den 2 pups sighted of around 25 days old,,12/15/15,,,19.0294,74.477,,,46,,,yes
+340,Indian,Indian,Indian,Indian,Habib-2,unpublished,21,Pup sighting - Around 15 days old pup seen carrying by male,,12/21/16,,,19.2167,74.7191,,,52,,,yes
+341,Indian,Indian,Indian,Indian,Habib-3,unpublished,21,Pup sighting - Around 2 month old pup seen on 07-02-2019,,12/7/19,,,18.2164,74.2274,,,38,,,yes
+342,Indian,Indian,Indian,Indian,Habib-4,unpublished,21,Pup sighting - 4 Pups around 2 month old seen on 05-02-2020,,12/5/20,,,17.8275,76.0495,,,36,,,yes
+343,Indian,Indian,Indian,Indian,Habib-5,unpublished,21,Pup sighting - 6 Pups around 4 month old seen on 16-06-2019,,2/16/19,,,18.2058,76.2431,,,106,,,yes
+344,Indian,Indian,Indian,Indian,Habib-6,unpublished,21,Pup sighting - 1 pup around 45 days old seen on 05-02-2021,,12/20/20,,,17.8228,75.8686,,,51,,,yes
+345,Indian,Indian,Indian,Indian,Habib-7,unpublished,21,Camera trap - Pups confirmed through camera trap,,1/15/21,,,17.8317,76.0109,,,75,,,yes
+346,Indian,Indian,Indian,Indian,Habib-5,unpublished,21,Pup sighting - 4 pups observed in the den of around 2 month old,,12/22/16,,,18.204,74.2335,,,53,,,yes
+347,Indian,Indian,Indian,Indian,Habib-5,unpublished,21,GPS captured wolf that was pregnant -  Captured on 22.01.2018 and she was probably about to deliver pups,,1/23/18,,,18.229,74.242,,,82,,,yes
+348,Indian,Indian,Indian,Indian,Jhala-1,unpublished,21,?,,12/30/99,,,22.045096,72.046524,,,59,,,yes
+349,Indian,Indian,Indian,Indian,Jhala-2,unpublished,21,?,,12/31/99,,,23.49909,69.948264,,,59,,,yes
+350,Tibetan,Tibetan,Tibetan,Tibetan,Shivam-1,unpublished,21,?,,5/15/15,,,32.763177,78.996561,,,196,,,yes
+351,Tibetan,Tibetan,Tibetan,Tibetan,Shivam-2,unpublished,21,?,,5/22/17,,,34.228376,77.749256,,,204,,,yes
+352,Tibetan,Tibetan,Tibetan,Tibetan,Surya-1,unpublished,21,?,,4/8/17,,,34.099086,77.835103,,,160,,,yes
+353,Indian,Indian,Indian,Indian,Indrajit-1,unpublished,21,Cameratrap,,11/29/15,11/25/15,12/3/15,15.6364089,76.1498479,,,29,25,33,yes
+354,Indian,Indian,Indian,Indian,Indrajit-1,unpublished,21,Cameratrap,,12/4/16,,,15.6364089,76.1498479,,,35,,,yes
+355,Indian,Indian,Indian,Indian,Indrajit-1,unpublished,21,Cameratrap,,11/26/19,,,15.6364089,76.1498479,,,26,,,yes
+356,Indian,Indian,Indian,Indian,Indrajit-1,unpublished,21,Cameratrap,,12/4/20,,,15.6364089,76.1498479,,,35,,,yes
+357,Indian,Indian,Indian,Indian,Indrajit-2,unpublished,21,Cameratrap,,11/26/17,,,15.5172532,76.43975,,,26,,,yes
+358,Iran,Middle East,Middle East,Middle East,Alireza-1,unpublished,21,Cameratrap,,5/17/16,,,34.678053,48.855706,,,198,,,yes
+359,Iran,Middle East,Middle East,Middle East,Alireza-2,unpublished,21,Cameratrap,,5/30/16,,,35.326401,48.285241,,,211,,,yes
+362,Iran,Middle East,Middle East,Middle East,Alireza-5,unpublished,21,Cameratrap,,3/19/17,,,29.187506,50.803715,,,140,,,yes
+364,Iran,Middle East,Middle East,Middle East,Alireza-7,unpublished,21,Cameratrap,,3/31/16,,,35.251073,59.496624,,,151,,,yes
+365,Iran,Middle East,Middle East,Middle East,Alireza-8,unpublished,21,Cameratrap,,5/8/16,,,35.227134,59.448735,,,189,,,yes
+366,Iran,Middle East,Middle East,Middle East,Alireza-9,unpublished,21,Cameratrap,,6/1/16,,,38.664927,44.763785,,,213,,,yes
+367,Iran,Middle East,Middle East,Middle East,Alireza-10,unpublished,21,Cameratrap,,4/28/20,,,36.293595,48.476716,,,179,,,yes
+368,Iran,Middle East,Middle East,Middle East,Alireza-11,unpublished,21,Cameratrap,,3/19/18,,,36.097772,49.127906,,,139,,,yes
+369,Iran,Middle East,Middle East,Middle East,Alireza-12,unpublished,21,Cameratrap,,4/5/15,,,38.299245,48.113387,,,156,,,yes
+370,Iran,Middle East,Middle East,Middle East,Alireza-13,unpublished,21,Cameratrap,,5/17/15,,,33.512214,49.442302,,,198,,,yes
+371,Iran,Middle East,Middle East,Middle East,Alireza-14,unpublished,21,Cameratrap,,5/12/16,,,33.589575,47.963062,,,193,,,yes
+372,Iran,Middle East,Middle East,Middle East,Alireza-15,unpublished,21,Cameratrap,,5/8/15,,,37.036058,46.291049,,,189,,,yes
+373,Iran,Middle East,Middle East,Middle East,Alireza-16,unpublished,21,Cameratrap,,3/31/16,,,36.474152,52.101252,,,151,,,yes
+374,Iran,Middle East,Middle East,Middle East,Alireza-17,unpublished,21,Cameratrap,,3/12/16,,,35.267439,57.927993,,,132,,,yes
+375,Iran,Middle East,Middle East,Middle East,Alireza-18,unpublished,21,Cameratrap,,4/30/16,,,36.635752,48.489148,,,181,,,yes
+378,Iran,Middle East,Middle East,Middle East,Alireza-21,unpublished,21,Cameratrap,,5/15/20,5/9/20,5/19/20,36.237397,59.557637,,,196,190,200,yes
+379,Iran,Middle East,Middle East,Middle East,Alireza-22,unpublished,21,Cameratrap,,6/9/20,,,36.278128,59.488121,,,221,,,yes
+380,Iran,Middle East,Middle East,Middle East,Alireza-23,unpublished,21,Cameratrap,,5/11/15,5/8/15,5/13/15,33.549263,48.151527,,,192,189,194,yes
+381,Iran,Middle East,Middle East,Middle East,Alireza-24,unpublished,21,Cameratrap,,5/9/16,5/6/16,5/11/16,33.546567,47.962233,,,190,187,192,yes
+382,Iran,Middle East,Middle East,Middle East,Alireza-25,unpublished,21,Cameratrap,,4/14/16,4/11/16,4/16/16,31.555701,49.815322,,,165,162,167,yes
+383,Iran,Middle East,Middle East,Middle East,Alireza-26,unpublished,21,Cameratrap,,3/1/12,,,36.70919,55.658816,,,121,,,yes
+387,Iran,Middle East,Middle East,Middle East,Alireza-29,unpublished,21,Cameratrap,,6/9/15,6/5/15,6/12/15,37.622918,45.194445,,,221,217,224,yes
+391,Iran,Middle East,Middle East,Middle East,Alireza-33,unpublished,21,Cameratrap,,5/2/21,,,33.524931,51.711832,,,184,,,yes
+392,Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mech-1,unpublished,21,"wild, habituated wolf pack, estimated pup age  ",Mech LD. 2022. Newly documented behavior of free-ranging Arctic wolf pups. Arctic 75(2): 272-276. ,25-May,,,80.01144004,-85.98352587,,,205,,,yes
+393,Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mech-2,unpublished,21,"wild, habituated wolf pack, estimated pup age  ",Mech LD. 2022. Newly documented behavior of free-ranging Arctic wolf pups. Arctic 75(2): 272-276. ,18-May,,,80.01144004,-85.98352587,,,198,,,yes
+394,Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mech-3,unpublished,21,"wild, habituated wolf pack, estimated pup age  ",Mech LD. 2022. Newly documented behavior of free-ranging Arctic wolf pups. Arctic 75(2): 272-276. ,8-Jun,,,80.01144004,-85.98352587,,,219,,,yes
+395,Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mech-4,unpublished,21,"wild, habituated wolf pack, estimated pup age  ",Mech LD. 2022. Newly documented behavior of free-ranging Arctic wolf pups. Arctic 75(2): 272-276. ,1-Jun,,,80.01144004,-85.98352587,,,212,,,yes
+396,Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mech-5,unpublished,21,"wild, habituated wolf pack, estimated pup age  ",Mech LD. 2022. Newly documented behavior of free-ranging Arctic wolf pups. Arctic 75(2): 272-276. ,4-Jun,,,80.01144004,-85.98352587,,,215,,,yes
+397,Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mech-6,unpublished,21,"wild, habituated wolf pack, estimated pup age  ",Mech LD. 2022. Newly documented behavior of free-ranging Arctic wolf pups. Arctic 75(2): 272-276. ,2-Jun,,,80.01144004,-85.98352587,,,213,,,yes
+398,Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mech-7,unpublished,21,"wild, habituated wolf pack, estimated pup age  ",Mech LD. 2022. Newly documented behavior of free-ranging Arctic wolf pups. Arctic 75(2): 272-276. ,6-Jun,,,80.01144004,-85.98352587,,,217,,,yes
+399,Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mech-8,unpublished,21,"wild, habituated wolf pack, estimated pup age  ",Mech LD. 2022. Newly documented behavior of free-ranging Arctic wolf pups. Arctic 75(2): 272-276. ,15-Jun,,,80.01144004,-85.98352587,,,226,,,yes
+400,Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mech-9,unpublished,21,"wild, habituated wolf pack, estimated pup age  ",Mech LD. 2022. Newly documented behavior of free-ranging Arctic wolf pups. Arctic 75(2): 272-276. ,24-May,,,80.01144004,-85.98352587,,,204,,,yes
+401,Canada,NorthAmerica,NorthAmerica,NorthAmerica,Mech-10,unpublished,21,"wild, habituated wolf pack, estimated pup age  ",Mech LD. 2022. Newly documented behavior of free-ranging Arctic wolf pups. Arctic 75(2): 272-276. ,31-May,,,80.01144004,-85.98352587,,,211,,,yes
+402,Belarus,Europe,Europe,Europe,Belarus-1,published,24,"monitored; Paazierre Forest, Naliboki Forest",,3-May,20-Apr,15-May,53.90778184,,,,183,171,195,no
+403,Russia,Asia,Asia,Asia,Russia-1,published,24,"Daurskiy Gosudarstvennyy Prirodynyy Zapovednik Biosphere Reserve, 17 GPS -collared","Kirilyuk AV, Kirilyuk VE, Minaev AN. 2021. Daily activity patterns of wolves in open habitats in the Dauria EcoRegion, Russia. Nature Conservation Research 6(4): 95-109",,15-Apr,30-Apr,50.47414914,,,,173,166,181,no
+404,Russia,Asia,Asia,Asia,,published,24,Nenetsk Nats Region,,,3/9/2025 estrus,14 April estrus,67.72793393,,65.9842306,69.6892905,212,195,230,no
+405,Russia,Asia,Asia,Asia,,published,24,"Tarastan, Russia",,estrus mid Feb,,,55.47712238,,,,171,,,no
+406,Russia,Asia,Asia,Asia,,published,24,Tarsky Region,,"estrus second half of Jan, first half of Feb",,,57.52965965,,,,160,149,171,no
+407,Russia,Asia,Asia,Asia,,published,24,Irkutsky district,,estrus at end of Jan ,,,52.24777198,,,,149,,,no
+408,Russia,Asia,Asia,Asia,,published,24,Voronezh Oblast,,second third of Jan,,,50.92845485,,49.71228852,51.98101053,154,142,167,no
+409,Russia,Asia,Asia,Asia,,published,24,Northern Kazakhstan,,Feb-first half of March ,,,52.24977727,,50.19247352,54.87706438,182,171,194,no
+410,Russia,Asia,Asia,Asia,,published,24,Karelia,,pups are born April-May or the beginning of June,,,63.68068846,,61.09046455,66.61738479,194,171,216,no
+411,Russia,Asia,Asia,Asia,,published,24,Arkhangelsk district,,born end of April and first third of May,,,64.54084943,,,,184,176,192,no
+412,Ukraine,Europe,Europe,Europe,,published,24,pups born middle of March beginning of April ,,,,,49.23719474,,44.74220661,52.24535154,149,136,163,no
+413,Turkmenistan,Asia,Asia,Asia,,published,24,end of March-beginning of April ,,,,,37.73633631,,38.68159847,35.45151789,150,141,160,no
+414,Caucasus mountains,Asia,Asia,Asia,,published,24,March to May,,,,,42.77543074,,,,162,141,183,no
+415,Azerbaijan,Asia,Asia,Asia,,published,24,April-May,,April to May,,,40.5147264,,38.67294824,41.83560088,173,163,183,no
+416,Armenia,Asia,Asia,Asia,,published,24,Armenia,,March ,,,40.24019993,,38.97938736,41.22402501,136,121,151,no
+417,Yellowstone National Park,NorthAmerica,NorthAmerica,NorthAmerica,"Stahler DR, MacNulty DR, Wayne RK, vonHoldt B, Smith DW. 2013. The adaptive value of morphological, behavioural, and life-history traits in reproductive female wolves. Journal of Animal Ecology 82: 222-234. ",published,24,Yellowstone National Park,,mid-April,,,44.60191391,,,,166,,,no
+418,USA,NorthAmerica,NorthAmerica,NorthAmerica,Minnesota-10,unpublished,21,4/7/22,,,,,48.4110465,,,,157,,,yes
+419,USA,NorthAmerica,NorthAmerica,NorthAmerica,Minnesota-11,unpublished,21,4/7/22,,,,,48.4110465,,,,157,,,yes
+420,USA,NorthAmerica,NorthAmerica,NorthAmerica,Minnesota-12,unpublished,21,4/5/23,,,,,48.4110465,,,,155,,,yes
+421,USA,NorthAmerica,NorthAmerica,NorthAmerica,Minnesota-13,unpublished,21,4/20/23,,,,,48.4110465,,,,170,,,yes
+422,USA,NorthAmerica,NorthAmerica,NorthAmerica,Minnesota-14,unpublished,21,4/15/23,,,,,48.4110465,,,,165,,,yes
+423,USA,NorthAmerica,NorthAmerica,NorthAmerica,Minnesota-15,unpublished,21,4/9/23,,,,,48.4110465,,,,159,,,yes
+424,USA,NorthAmerica,NorthAmerica,NorthAmerica,Minnesota-16,unpublished,21,3/29/24,,,,,48.4110465,,,,149,,,yes
+425,USA,NorthAmerica,NorthAmerica,NorthAmerica,Minnesota-17,unpublished,21,4/22/24,,,,,48.4110465,,,,173,,,yes
+426,USA,NorthAmerica,NorthAmerica,NorthAmerica,Minnesota-18,unpublished,21,4/12/24,,,,,48.4110465,,,,163,,,yes
+427,USA,NorthAmerica,NorthAmerica,NorthAmerica,Minnesota-19,unpublished,21,4/12/24,,,,,48.4110465,,,,163,,,yes
+428,USA,NorthAmerica,NorthAmerica,NorthAmerica,Minnesota-20,unpublished,21,4/19/24,,,,,48.4110465,,,,170,,,yes
+429,USA,NorthAmerica,NorthAmerica,NorthAmerica,Minnesota-21,unpublished,21,4/8/24,,,,,48.4110465,,,,159,,,yes
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-1,8Mile_1328F,21,4/12/24,,,,,44.3805,,,,163,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-2,Mollies_005F,21,4/21/99,,,,,44.3805,,,,172,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-2,Mollies_005F,21,4/21/98,,,,,44.3805,,,,172,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-2,Mollies_005F,21,4/20/97,,,,,44.3805,,,,171,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-2,Mollies_005F,21,4/17/96,,,,,44.3805,,,,168,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-3,Leopold_007F,21,4/8/02,,,,,44.3805,,,,159,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-3,Leopold_007F,21,4/5/01,,,,,44.3805,,,,157,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-3,Leopold_007F,21,4/11/00,,,,,44.3805,,,,162,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-3,Leopold_007F,21,4/15/99,,,,,44.3805,,,,166,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-3,Leopold_007F,21,4/6/98,,,,,44.3805,,,,158,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-3,Leopold_007F,21,4/14/97,,,,,44.3805,,,,165,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-3,Leopold_007F,21,4/26/96,,,,,44.3805,,,,177,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-4,Rose_009F,21,4/10/99,,,,,44.3805,,,,161,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-4,Rose_009F,21,4/4/98,,,,,44.3805,,,,155,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-4,Rose_009F,21,4/5/97,,,,,44.3805,,,,156,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-4,Rose_009F,21,4/15/96,,,,,44.3805,,,,166,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-4,Rose_009F,21,4/24/95,,,,,44.3805,,,,176,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-5,Soda_014F,21,4/14/97,,,,,44.3805,,,,165,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-5,Soda_014F,21,4/18/96,,,,,44.3805,,,,169,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-5,Soda_014F,21,4/21/95,,,,,44.3805,,,,172,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-5,Chief_016F,21,4/20/97,,,,,44.3805,,,,171,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-6,Chief_017F,21,4/18/97,,,,,44.3805,,,,169,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-7,Rose_018F,21,4/15/02,,,,,44.3805,,,,166,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-7,Rose_018F,21,4/5/01,,,,,44.3805,,,,156,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-7,Rose_018F,21,4/6/00,,,,,44.3805,,,,158,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-7,Rose_018F,21,4/12/99,,,,,44.3805,,,,163,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-7,Rose_018F,21,4/4/98,,,,,44.3805,,,,155,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-7,Rose_018F,21,4/11/97,,,,,44.3805,,,,162,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-7,Rose_019F,21,4/12/97,,,,,44.3805,,,,163,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-8,NezPierce_027F,21,4/20/96,,,,,44.3805,,,,171,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-9,Cheif_033F,21,4/14/01,,,,,44.3805,,,,165,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-9,Cheif_033F,21,4/11/00,,,,,44.3805,,,,162,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-9,Cheif_033F,21,4/17/99,,,,,44.3805,,,,168,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-9,Cheif_033F,21,4/17/98,,,,,44.3805,,,,168,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-10,Druid_040F,21,4/13/00,,,,,44.3805,,,,164,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-10,Druid_040F,21,4/13/99,,,,,44.3805,,,,164,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-10,Druid_040F,21,4/8/98,,,,,44.3805,,,,159,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-11,Druid_041F,21,4/28/97,,,,,44.3805,,,,179,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-12,Druid_042F,21,4/1/02,,,,,44.3805,,,,152,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-12,Druid_042F,21,4/4/01,,,,,44.3805,,,,155,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-12,Druid_042F,21,4/19/97,,,,,44.3805,,,,170,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-13,NezPierce_048F,21,4/17/05,,,,,44.3805,,,,168,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-13,NezPierce_048F,21,4/18/04,,,,,44.3805,,,,169,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-13,NezPierce_048F,21,4/24/02,,,,,44.3805,,,,165,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-13,NezPierce_048F,21,4/19/00,,,,,44.3805,,,,170,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-13,NezPierce_048F,21,4/27/99,,,,,44.3805,,,,179,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-13,NezPierce_048F,21,4/25/98,,,,,44.3805,,,,176,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-14,Carnelian_1005F,21,4/22/20,,,,,44.3805,,,,173,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-15,Agate_103F,21,4/24/02,,,,,44.3805,,,,165,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-16,Druid_105F,21,4/10/01,,,,,44.3805,,,,161,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-17,Geode_106F,21,4/8/05,,,,,44.3805,,,,159,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-17,Geode_106F,21,4/2/04,,,,,44.3805,,,,153,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-17,Geode_106F,21,4/15/02,,,,,44.3805,,,,166,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-17,Geode_106F,21,4/18/01,,,,,44.3805,,,,169,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-17,Geode_106F,21,4/16/00,,,,,44.3805,,,,167,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-18,Junction_1109F,21,4/8/20,,,,,44.3805,,,,159,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-18,Junction_1109F,21,4/18/19,,,,,44.3805,,,,169,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-19,Willow_1239F,21,4/18/23,,,,,44.3805,,,,169,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-20,Delta_126F,21,4/21/01,,,,,44.3805,,,,172,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-21,Junction_1276F,21,4/26/23,,,,,44.3805,,,,177,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-1,8Mile_1328F,21,4/18/24,,,,,44.3805,,,,169,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-1,8Mile_1328F,21,4/18/23,,,,,44.3805,,,,169,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-1,8Mile_1328F,21,4/18/22,,,,,44.3805,,,,169,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-22,8Mile_1389F,21,4/20/24,,,,,44.3805,,,,171,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-22,8Mile_1389F,21,4/20/24,,,,,44.3805,,,,171,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-23,1410F,21,4/26/24,,,,,44.3805,,,,177,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-24,Mollies_1411F,21,4/23/25,,,,,44.3805,,,,175,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-25,Junction_1478F,21,5/3/25,,,,,44.3805,,,,186,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-26,Junction_1479F,21,5/4/25,,,,,44.3805,,,,187,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-27,Cougar_1480F,21,4/20/24,,,,,44.3805,,,,171,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-28,Rescue_1490F,21,4/20/25,,,,,44.3805,,,,171,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-28,Rescue_1490F,21,4/18/24,,,,,44.3805,,,,169,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-29,Cougar_151F,21,4/29/07,,,,,44.3805,,,,180,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-29,Cougar_151F,21,4/23/06,,,,,44.3805,,,,175,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-29,Cougar_151F,21,4/8/05,,,,,44.3805,,,,159,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-29,Cougar_151F,21,4/13/04,,,,,44.3805,,,,164,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-29,Cougar_151F,21,4/12/03,,,,,44.3805,,,,163,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-29,Cougar_151F,21,4/15/02,,,,,44.3805,,,,166,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-29,Cougar_151F,21,4/21/01,,,,,44.3805,,,,172,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-30,Swanlake_152F,21,4/13/04,,,,,44.3805,,,,164,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-30,Swanlake_152F,21,4/22/03,,,,,44.3805,,,,173,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-30,Swanlake_152F,21,4/15/02,,,,,44.3805,,,,166,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-30,Swanlake_152F,21,4/14/01,,,,,44.3805,,,,165,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-30,Swanlake_152F,21,4/27/00,,,,,44.3805,,,,179,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-31,Rose_155F,21,4/19/00,,,,,44.3805,,,,170,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-32,Mollies_174F,21,4/26/04,,,,,44.3805,,,,177,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-32,Mollies_174F,21,4/22/03,,,,,44.3805,,,,173,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-32,Mollies_174F,21,4/8/02,,,,,44.3805,,,,159,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-32,Mollies_174F,21,4/21/01,,,,,44.3805,,,,172,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-33,Leopold_209F,21,4/13/07,,,,,44.3805,,,,164,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-33,Leopold_209F,21,4/12/06,,,,,44.3805,,,,163,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-33,Leopold_209F,21,4/8/05,,,,,44.3805,,,,159,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-33,Leopold_209F,21,4/16/04,,,,,44.3805,,,,167,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-34,Slough_217FB,21,4/13/03,,,,,44.3805,,,,164,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-35,Leopold_220F,21,4/22/03,,,,,44.3805,,,,173,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-36,251F,21,4/6/03,,,,,44.3805,,,,158,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-37,255F,21,4/12/04,,,,,44.3805,,,,163,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-38,Leopold_259F,21,4/12/03,,,,,44.3805,,,,163,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-39,340F,21,4/18/04,,,,,44.3805,,,,169,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-40,Hellrouri_353F,21,4/19/06,,,,,44.3805,,,,170,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-41,Druid_376F,21,4/21/04,,,,,44.3805,,,,172,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-42,Slough_380F,21,4/8/06,,,,,44.3805,,,,159,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-43,Specimen_427F,21,4/22/04,,,,,44.3805,,,,173,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-44,469F,21,4/25/11,,,,,44.3805,,,,176,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-44,469F,21,4/8/09,,,,,44.3805,,,,159,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-44,469F,21,4/6/08,,,,,44.3805,,,,158,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-44,469F,21,4/6/08,,,,,44.3805,,,,158,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-45,Agate_472F,21,4/3/10,,,,,44.3805,,,,154,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-45,Agate_472F,21,4/3/10,,,,,44.3805,,,,154,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-45,Agate_472F,21,4/11/08,,,,,44.3805,,,,162,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-45,Agate_472F,21,4/12/06,,,,,44.3805,,,,163,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-45,Agate_472F,21,4/8/05,,,,,44.3805,,,,159,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-46,Cougar_478F,21,5/2/14,,,,,44.3805,,,,184,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-46,Cougar_478F,21,4/29/11,,,,,44.3805,,,,180,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-46,Cougar_478F,21,5/1/10,,,,,44.3805,,,,182,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-47,Mollies_486F,21,4/15/11,,,,,44.3805,,,,166,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-47,Mollies_486F,21,4/17/10,,,,,44.3805,,,,168,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-47,Mollies_486F,21,4/24/08,,,,,44.3805,,,,165,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-47,Mollies_486F,21,4/19/07,,,,,44.3805,,,,170,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-47,Mollies_486F,21,5/1/06,,,,,44.3805,,,,182,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-48,Agate_524F,21,4/9/07,,,,,44.3805,,,,160,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-49,Cottonwood_527F,21,4/14/09,,,,,44.3805,,,,165,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-49,Cottonwood_527F,21,4/6/08,,,,,44.3805,,,,158,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-49,Cottonwood_527F,21,4/6/08,,,,,44.3805,,,,158,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone-50,Druid_105F,21,4/10/06,,,,,44.3805,,,,161,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_51,Oxbow_536F,21,4/5/08,,,,,44.3805,,,,156,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_51,Oxbow_536F,21,4/9/07,,,,,44.3805,,,,160,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_51,Oxbow_536F,21,4/2/06,,,,,44.3805,,,,153,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_52,Gibbon_537F,21,5/2/09,,,,,44.3805,,,,184,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_52,Gibbon_537F,21,4/14/08,,,,,44.3805,,,,165,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_52,Gibbon_537F,21,4/24/07,,,,,44.3805,,,,165,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_52,Gibbon_537F,21,4/30/06,,,,,44.3805,,,,176,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_53,Hayden_540F,21,5/4/07,,,,,44.3805,,,,185,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_53,Hayden_540F,21,5/7/06,,,,,44.3805,,,,188,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_54,Druid_569F,21,4/2/08,,,,,44.3805,,,,153,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_54,Druid_569F,21,4/13/07,,,,,44.3805,,,,164,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_55,Druid_571F,21,4/14/08,,,,,44.3805,,,,165,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_56,Leopold_588F,21,4/19/07,,,,,44.3805,,,,170,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_57,Leopold_625F,21,4/22/08,,,,,44.3805,,,,173,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_58,Yellowstone_633F,21,4/20/13,,,,,44.3805,,,,171,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_59,Blacktail_642F,21,4/12/10,,,,,44.3805,,,,163,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_60,Blacktail_692F,21,4/12/10,,,,,44.3805,,,,163,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_61,Blacktail_693F,21,4/17/11,,,,,44.3805,,,,168,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_61,Blacktail_693F,21,4/17/10,,,,,44.3805,,,,168,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_62,Agate_715F,21,4/15/11,,,,,44.3805,,,,166,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_62,Agate_715F,21,5/1/10,,,,,44.3805,,,,182,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_62,Agate_715F,21,5/1/10,,,,,44.3805,,,,182,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_63,Mollies_779F,21,4/26/14,,,,,44.3805,,,,177,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_63,Mollies_779F,21,4/29/13,,,,,44.3805,,,,180,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_64,Mary_794F,21,4/29/12,,,,,44.3805,,,,180,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_64,Mary_794F,21,4/15/11,,,,,44.3805,,,,166,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_65,Prospect_821F,21,4/16/17,,,,,44.3805,,,,167,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_65,Prospect_821F,21,4/16/15,,,,,44.3805,,,,167,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_66,Junction_870F,21,4/9/14,,,,,44.3805,,,,160,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_66,Junction_870F,21,5/4/14,,,,,44.3805,,,,185,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_67,889F,21,4/12/14,,,,,44.3805,,,,163,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_67,889F,21,4/18/13,,,,,44.3805,,,,169,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_68,Junction_907F,21,4/19/24,,,,,44.3805,,,,170,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_68,Junction_907F,21,4/22/23,,,,,44.3805,,,,173,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_68,Junction_907F,21,4/22/22,,,,,44.3805,,,,173,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_68,Junction_907F,21,4/18/19,,,,,44.3805,,,,169,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_68,Junction_907F,21,4/21/20,,,,,44.3805,,,,172,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_69,8mile_909F,21,4/13/15,,,,,44.3805,,,,164,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_69,8mile_909F,21,4/8/14,,,,,44.3805,,,,159,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_70,Lamar_926F,21,4/27/15,,,,,44.3805,,,,179,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_70,Lamar_926F,21,4/27/14,,,,,44.3805,,,,179,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_70,Lamar_926F,21,4/28/16,,,,,44.3805,,,,180,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_71,8mile_963F,21,4/13/17,,,,,44.3805,,,,164,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_72,Junction_969F,21,4/18/19,,,,,44.3805,,,,169,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_73,Junction_970F,21,4/19/15,,,,,44.3805,,,,170,,,
+,USA,NorthAmerica,NorthAmerica,Yellowstone,Yellowstone_73,Junction_970F,21,4/29/15,,,,,44.3805,,,,180,,,
